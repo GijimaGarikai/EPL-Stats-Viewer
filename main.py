@@ -155,7 +155,7 @@ st.table(league_data)
 
 # bayern = Image.open(r"/Users/garikaigijima/Documents/team logos/bayern logo.png")
 # bvb = Image.open(r"/Users/garikaigijima/Documents/team logos/bvb logo.png")
-arsenal = Image.open("https://user-images.githubusercontent.com/113154557/191647561-f6c6a29a-2d15-41ff-880f-7961fda236c3.png")
+arsenal = st.image("https://user-images.githubusercontent.com/113154557/191647561-f6c6a29a-2d15-41ff-880f-7961fda236c3.png")
 #aston = Image.open(r"/Users/garikaigijima/Documents/team logos/aston villa logo.png")
 #bourn = Image.open(r"/Users/garikaigijima/Documents/team logos/AFC_Bournemouth_(2013).png")
 #brent = Image.open(r"/Users/garikaigijima/Documents/team logos/Brentford_FC_crest.png")
