@@ -153,32 +153,30 @@ st.table(league_data)
 #![aston villa logo](https://user-images.githubusercontent.com/113154557/191647560-c896497a-41f1-425f-ade6-79eb44e7c6fb.png)
 #![Arsenal-Logo](https://user-images.githubusercontent.com/113154557/191647561-f6c6a29a-2d15-41ff-880f-7961fda236c3.png)
 
-# bayern = Image.open(r"/Users/garikaigijima/Documents/team logos/bayern logo.png")
-# bvb = Image.open(r"/Users/garikaigijima/Documents/team logos/bvb logo.png")
 arsenal = st.image("https://user-images.githubusercontent.com/113154557/191647561-f6c6a29a-2d15-41ff-880f-7961fda236c3.png")
-#aston = Image.open(r"/Users/garikaigijima/Documents/team logos/aston villa logo.png")
-#bourn = Image.open(r"/Users/garikaigijima/Documents/team logos/AFC_Bournemouth_(2013).png")
-#brent = Image.open(r"/Users/garikaigijima/Documents/team logos/Brentford_FC_crest.png")
-#bright = Image.open(r"/Users/garikaigijima/Documents/brighton-hove-albion-logo-1.png")
-#chel = Image.open(r"/Users/garikaigijima/Documents/team logos/Chelsea_FC.png")
-#cpr = Image.open(r"/Users/garikaigijima/Documents/team logos/Crystal_Palace_FC_logo_(2022).png")
-#ever = Image.open(r"/Users/garikaigijima/Documents/team logos/Everton_FC_logo.png")
-#fulham = Image.open(r"/Users/garikaigijima/Documents/team logos/Fulham_FC_(shield).png")
-#leice = Image.open(r"/Users/garikaigijima/Documents/team logos/Leicester_City_crest.png")
-#leed = Image.open(r"/Users/garikaigijima/Documents/team logos/Leeds_United_F.C._logo.png")
-#liver = Image.open(r"/Users/garikaigijima/Documents/team logos/Liverpool_FC.png")
-#manc = Image.open(r"/Users/garikaigijima/Documents/team logos/Manchester_City_FC_badge.png")
-#manu = Image.open(r"/Users/garikaigijima/Documents/team logos/Manchester_United_FC_crest.png")
-#newc = Image.open(r"/Users/garikaigijima/Documents/team logos/Newcastle_United_Logo.png")
-#nottf = Image.open(r"/Users/garikaigijima/Documents/team logos/nottingham logo.png")
-#south = Image.open(r"/Users/garikaigijima/Documents/team logos/FC_Southampton.png")
-#tott = Image.open(r"/Users/garikaigijima/Documents/team logos/Tottenham_Hotspur.png")
-#west = Image.open(r"/Users/garikaigijima/Documents/team logos/West_Ham_United_FC_logo.png")
-#wolves = Image.open(r"/Users/garikaigijima/Documents/team logos/Wolverhampton_Wanderers.png")
+aston = st.image("https://user-images.githubusercontent.com/113154557/191647560-c896497a-41f1-425f-ade6-79eb44e7c6fb.png")
+bourn = st.image("https://user-images.githubusercontent.com/113154557/191650945-4d6e7121-e463-4ed5-b4f7-ac0eeb687b6c.png")
+brent = st.image("https://user-images.githubusercontent.com/113154557/191647559-3f8dca6f-7ae9-4d4a-bf73-dc108bd93a3a.png")
+bright = st.image("https://user-images.githubusercontent.com/113154557/191647557-0948af1a-3532-4344-8054-1e9ec6e2edce.svg")
+chel = st.image("https://user-images.githubusercontent.com/113154557/191647556-2ca8f7ee-6025-4bbd-bc08-7fcd49524280.png")
+cpr = st.image("https://user-images.githubusercontent.com/113154557/191647555-5fd5ea25-7de2-4946-ab67-9e0a571eec52.png")
+ever = st.image("https://user-images.githubusercontent.com/113154557/191647551-f24d115c-ee1c-4f73-83b5-6693d9c63824.png")
+fulham = st.image("https://user-images.githubusercontent.com/113154557/191650944-75144b7b-f84a-44b2-b526-f84f10006784.png")
+leice = st.image("https://user-images.githubusercontent.com/113154557/191647549-f4df4e7d-41cc-47ae-9bb1-4ac7ea7ee918.png")
+leed = st.image("https://user-images.githubusercontent.com/113154557/191647548-9c0b702c-417f-49cf-8dc9-bd6e8f8e66e9.png")
+liver = st.image("https://user-images.githubusercontent.com/113154557/191647546-ea684b47-bf0b-4223-b2f3-ba153955fd7c.png")
+manc = st.image("https://user-images.githubusercontent.com/113154557/191647544-097a7586-c897-41be-9787-ff91207311ac.png")
+manu = st.image("https://user-images.githubusercontent.com/113154557/191647541-0c071429-e125-462c-8571-c8c265d39f6f.png")
+newc = st.image("https://user-images.githubusercontent.com/113154557/191650943-f8a3378e-fdfd-4e30-ace4-82a9ba58e83b.png")
+nottf = st.image("https://user-images.githubusercontent.com/113154557/191647540-21673376-ab3d-44ab-b007-8a97a1db2e8b.png")
+south = st.image("https://user-images.githubusercontent.com/113154557/191647539-c8d03902-6049-4c21-b695-94ce1fb93058.png")
+tott = st.image("https://user-images.githubusercontent.com/113154557/191647538-1d3d76c2-9188-483e-9682-6d860166f2cb.png")
+west = st.image("https://user-images.githubusercontent.com/113154557/191647535-112767c1-6fc5-4212-b1c2-3ced667ba271.png")
+wolves = st.image("https://user-images.githubusercontent.com/113154557/191647530-e4b15275-f7df-4e7d-a43e-a19b0d8e0628.png")
 
-#images1 = [arsenal, aston, bourn, brent, bright, chel, cpr, ever, fulham, leice]
-#images2 = [leed, liver, manc, manu, newc, nottf, south, tott, west, wolves]
-#images = images1 + images2
+images1 = [arsenal, aston, bourn, brent, bright, chel, cpr, ever, fulham, leice]
+images2 = [leed, liver, manc, manu, newc, nottf, south, tott, west, wolves]
+images = images1 + images2
 st.markdown(
     f"""
          <style>
@@ -192,7 +190,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.image(arsenal, width=120)
+st.image(images, width=120)
 
 # team = season_response.json()
 # print(team['data']['standings'][0]['position'])
