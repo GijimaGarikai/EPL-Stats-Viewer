@@ -1,4 +1,4 @@
-~Probably not coming back to this but it was fun to work on and I forgot to make it public so here we go :3~
+~Made this in 2022 and probably not coming back to finish but it was fun to work on and I forgot to make it public so here we go :3~
 # English Premier League (EPL) Statistics Viewer
 
 This Python script fetches and displays English Premier League (EPL) statistics using the Sportdata API. It allows users to select a season and view detailed statistics for their favorite teams.
@@ -11,7 +11,6 @@ This Python script fetches and displays English Premier League (EPL) statistics 
 - [Team Selection](#team-selection)
 - [Team Stats](#team-stats)
 - [Background Image](#background-image)
-- [License](#license)
 
 ## Prerequisites
 
