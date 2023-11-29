@@ -160,16 +160,4 @@ st.markdown(
 
 st.image(images, width=120)
 
-# team = season_response.json()
-# print(team['data']['standings'][0]['position'])
-
-# team1_pos = st.sidebar.slider('Team 1 Position', 1, 18, 1)
-# team2_pos = st.sidebar.slider('Team 2 Position', 1, 18, 2)
-# team3_pos = st.sidebar.slider('Team 3 Position', 1, 18, 3)
-# data = {'team1_pos': team['data']['standings'][team1_pos]['position'] - 1,
-#        'team2_pos': team['data']['standings'][team2_pos]['position'] - 1,
-#        'team3_pos': team['data']['standings'][team3_pos]['position'] - 1}
-
-# st.subheader('This will tell you a teams Final Season position')
-# st.subheader('This should be where the teams pop up')
 # st.write('Team 1/2/3 position is {}/{}/{}'.format(data['team1_pos'], data['team2_pos'], data['team3_pos']))
